@@ -22,3 +22,4 @@ banana  |   10
 pear    |   15
 orange  |   10
 orange1  |   10
+orange2  |   10
